@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 
-/public/webviewer
+./public/webviewer
 
 # testing
 /coverage
